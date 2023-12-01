@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcosPampuch
-- 👀 I’m interested in programming ML models and creating ETL and pipelines using Python and SQL/NoSQL languages.
-- 🌱 I’m currently learning more about Hadoop ecosystem.
-- 📫 Here is my LinkedIn profile: [https://www.linkedin.com/in/marcos-vin%C3%ADcius-grassi-pampuch-20937a174/](https://www.linkedin.com/in/marcos-vin%C3%ADcius-grassi-pampuch-20937a174/)
+- 👀 I’m interested in developing ML models and creating ETL/ELT pipelines.
+- 🌱 I’m currently learning more about big data stream processing and deep neural networks.
+- 📫 Here is my [LinkedIn profile](www.linkedin.com/in/marcos-vinícius-grassi-pampuch-20937a174)
 
 <!---
 MarcosPampuch/MarcosPampuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
